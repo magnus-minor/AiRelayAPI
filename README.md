@@ -2,7 +2,7 @@
 
 小白如何使用中转站 API：[Cherry Studio](https://docs.cherry-ai.com/)
 
-中转站测评：[禾维 AI](https://hvoy.ai/)
+中转站测评：[禾维 AI](https://hvoy.ai/) · [Folkbench](https://folkbench.com/)
 
 在国内稳定使用先进 AI API 很困难，官方服务不仅价格高，还有账号被误封的风险。
 因此选择中转站时，关键要看稳定性和可靠性：
